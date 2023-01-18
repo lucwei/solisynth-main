@@ -1,0 +1,26 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid 86960213-2693-47e1-b326-e76a23d0259a)
+
+  (paper "A4")
+
+  (title_block
+    (title "VCO Panel")
+    (date "2023-01-18")
+    (rev "1")
+    (company "www.solisynth.com")
+  )
+
+  (lib_symbols
+  )
+
+
+  (text "NOTHING HERE!" (at 88.9 97.79 0)
+    (effects (font (size 10 10)) (justify left bottom))
+    (uuid c02ea828-b111-4d1d-9474-98d811361c61)
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
