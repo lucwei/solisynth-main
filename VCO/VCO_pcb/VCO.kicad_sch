@@ -6666,7 +6666,7 @@
     (property "MFN" "Bourns" (id 4) (at 205.74 112.395 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "MPN" "CR0603FX2002ELF" (id 5) (at 205.74 112.395 0)
+    (property "MPN" "CR0603-FX-2002ELF" (id 5) (at 205.74 112.395 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "LCSC" "C4184" (id 6) (at 205.74 112.395 0)
