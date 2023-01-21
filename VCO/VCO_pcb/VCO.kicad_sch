@@ -4,6 +4,13 @@
 
   (paper "A3")
 
+  (title_block
+    (title "VCO")
+    (date "2023-01-21")
+    (rev "1")
+    (company "www.solisynth.com")
+  )
+
   (lib_symbols
     (symbol "Device:D" (pin_numbers hide) (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
       (property "Reference" "D" (id 0) (at 0 2.54 0)
